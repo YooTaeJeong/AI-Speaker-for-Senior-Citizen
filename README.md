@@ -38,7 +38,11 @@
 ---
 ## 개발자
 
-- 윤대호([@DaeHoo-Yun @201810788](https://github.com/201810788)), 이혜인([@hyeinlee725](https://github.com/hyeinlee725)), 정민지([@minji-o-j](https://github.com/minji-o-j))  
+- 윤대호([@DaeHoo-Yun @201810788](https://github.com/201810788)), 이혜인([@hyeinlee725](https://github.com/hyeinlee725)), 정민지([@minji-o-j](https://github.com/minji-o-j))
+
+## 수정
+
+- 유
 
 ---
 ## 목적 및 필요성
